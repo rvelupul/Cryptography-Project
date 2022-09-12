@@ -1,1 +1,2 @@
 # Cryptography-Project
+In this project, cryptography concepts such as encryption and decryption are used. A user can enter a plain text of their choosing and convert into a code such as ASCII values, octal values etc. The decryption feature will allow you to do the complete opposite by converting the encrypted data back to the original plain text form. Some concepts of Python that were integrated in this project were frames, modules, global variables, methods etc. 
